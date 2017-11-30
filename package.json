@@ -1,0 +1,19 @@
+{
+  "name": "random-name-generator",
+  "version": "1.0.0",
+  "description": "generate a random name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexbanister/randomNameGenerator.git"
+  },
+  "author": "Alex Banister",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexbanister/randomNameGenerator/issues"
+  },
+  "homepage": "https://github.com/alexbanister/randomNameGenerator#readme"
+}
