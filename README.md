@@ -11,14 +11,14 @@
 returns a random name
 
 ### Examples
-`obsolete sushi
-classy cotton
-snobbish buffet
-foamy ice
-shrill calculus
-unique value
-little stock
-whispering armenian
-angry cub
-roomy power
-nasty temper`
+- obsolete sushi
+- classy cotton
+- snobbish buffet
+- foamy ice
+- shrill calculus
+- unique value
+- little stock
+- whispering armenian
+- angry cub
+- roomy power
+- nasty temper
